@@ -1,0 +1,553 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-campos-de-baeza",
+ "source_site": "https://hotelcamposdebaeza.com/",
+ "source_read_at": "2026-11-02T10:50:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "que habitaciones",
+     "tipos de habitacion",
+     "doble",
+     "individual",
+     "supletoria"
+    ],
+    "en": [
+     "which rooms",
+     "room types",
+     "double",
+     "single",
+     "extra bed"
+    ],
+    "fr": [
+     "quelles chambres",
+     "types de chambre",
+     "double",
+     "individuelle",
+     "appoint"
+    ],
+    "de": [
+     "welche zimmer",
+     "zimmertypen",
+     "doppelzimmer",
+     "einzelzimmer",
+     "zustellbett"
+    ]
+   },
+   "a": {
+    "es": "Tiene 50 habitaciones: dobles (cama de matrimonio o dos camas separadas), individuales, dobles con supletoria para 3 adultos y Junior Suites.",
+    "en": "It has 50 rooms: doubles (double bed or two separate beds), singles, doubles with an extra bed for 3 adults and Junior Suites.",
+    "fr": "Il compte 50 chambres : doubles (lit double ou deux lits séparés), individuelles, doubles avec lit d’appoint pour 3 adultes et Junior Suites.",
+    "de": "Es hat 50 Zimmer: Doppelzimmer (Doppelbett oder zwei getrennte Betten), Einzelzimmer, Doppelzimmer mit Zustellbett für 3 Erwachsene und Junior Suites."
+   },
+   "sources": [
+    {
+     "url": "https://hotelcamposdebaeza.com",
+     "quote": "Con 50 habitaciones"
+    },
+    {
+     "url": "https://hotelcamposdebaeza.com",
+     "quote": "Las habitaciones ofrecen dos tipos de cama: de matrimonio o dos camas separadas (Hollywood twin)"
+    },
+    {
+     "url": "https://hotelcamposdebaeza.com",
+     "quote": "Con capacidad para 3 adultos, elija 1 ó 2 camas más una cama extra para descansar"
+    },
+    {
+     "url": "https://hotelcamposdebaeza.com",
+     "quote": "Las Junior Suites de nuestro hotel 4 estrellas en Baeza ofrecen tres espectaculares y únicos diseños"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "junior suite",
+   "keys": {
+    "es": [
+     "junior",
+     "suite",
+     "jacuzzi"
+    ],
+    "en": [
+     "junior",
+     "suite",
+     "jacuzzi"
+    ],
+    "fr": [
+     "junior",
+     "suite",
+     "jacuzzi"
+    ],
+    "de": [
+     "junior",
+     "suite",
+     "whirlpool"
+    ]
+   },
+   "a": {
+    "es": "Las Junior Suites tienen tres diseños únicos, en los extremos del pasillo: amplio salón, mirador en la terraza privada, jacuzzi y ducha de hidromasaje, con albornoz y zapatillas.",
+    "en": "The Junior Suites come in three unique designs, at the ends of the corridor: large lounge, viewpoint on the private terrace, jacuzzi and hydromassage shower, with bathrobe and slippers.",
+    "fr": "Les Junior Suites ont trois designs uniques, au bout des couloirs : grand salon, belvédère sur la terrasse privée, jacuzzi et douche hydromassante, avec peignoir et chaussons.",
+    "de": "Die Junior Suites gibt es in drei einzigartigen Designs am Ende der Flure: großer Wohnbereich, Aussichtspunkt auf der privaten Terrasse, Whirlpool und Massagedusche, mit Bademantel und Hausschuhen."
+   },
+   "sources": [
+    {
+     "url": "https://hotelcamposdebaeza.com/habitaciones-2/?view=roomdetails&roomid=2",
+     "quote": "ofrecen tres espectaculares y únicos diseños, ubicadas en los extremos del pasillo"
+    },
+    {
+     "url": "https://hotelcamposdebaeza.com/habitaciones-2/?view=roomdetails&roomid=2",
+     "quote": "Tienen un amplio salón, con un espectacular mirador en la terraza privada de cada habitación"
+    },
+    {
+     "url": "https://hotelcamposdebaeza.com/habitaciones-2/?view=roomdetails&roomid=2",
+     "quote": "amenities, zapatillas, albornoz... disponen de un magnifico jacuzzi y ducha de hidromasaje"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "tienen las habitaciones",
+     "wifi",
+     "television",
+     "minibar",
+     "caja fuerte",
+     "secador"
+    ],
+    "en": [
+     "include",
+     "wifi",
+     " tv",
+     "minibar",
+     "safe",
+     "hairdryer"
+    ],
+    "fr": [
+     "comprennent",
+     "wifi",
+     "television",
+     "minibar",
+     "coffre",
+     "seche-cheveux"
+    ],
+    "de": [
+     "bieten die zimmer",
+     "wlan",
+     "fernseh",
+     "minibar",
+     "safe",
+     "fohn"
+    ]
+   },
+   "a": {
+    "es": "Tienen suelo de madera, secador, amenities personalizados, TV de pantalla plana, wifi gratuito, colchones nuevos y almohadas a la carta, además de minibar, caja fuerte, escritorio y calefacción central.",
+    "en": "They have wooden floors, hairdryer, personalised amenities, flat-screen TV, free wifi, new mattresses and a pillow menu, plus minibar, safe, desk and central heating.",
+    "fr": "Parquet, sèche-cheveux, produits d’accueil personnalisés, TV écran plat, wifi gratuit, matelas neufs et carte d’oreillers, ainsi que minibar, coffre-fort, bureau et chauffage central.",
+    "de": "Holzboden, Föhn, individuelle Pflegeprodukte, Flachbild-TV, kostenloses WLAN, neue Matratzen und Kissenmenü sowie Minibar, Safe, Schreibtisch und Zentralheizung."
+   },
+   "sources": [
+    {
+     "url": "https://hotelcamposdebaeza.com/habitaciones-2/?view=roomdetails&roomid=3",
+     "quote": "tienen suelo de madera, secadores de pelo y amenities personalizados. Relájate frente a la TV de pantalla plana, no te pierdas nada gracias al Wifi gratuito y disfruta de una noche de sueño reparador con los nuevos colchones y las almohadas a la carta"
+    },
+    {
+     "url": "https://hotelcamposdebaeza.com/habitaciones-2/?view=roomdetails&roomid=3",
+     "quote": "Mini-bar Pantalla TV plana Secador Ventanas articuladas Caja fuerte"
+    },
+    {
+     "url": "https://hotelcamposdebaeza.com/habitaciones-2/?view=roomdetails&roomid=3",
+     "quote": "Calefacción central"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparc",
+     "garaje",
+     "coche"
+    ],
+    "en": [
+     "parking",
+     "garage",
+     "car "
+    ],
+    "fr": [
+     "parking",
+     "stationn",
+     "voiture"
+    ],
+    "de": [
+     "parkplatz",
+     "parken",
+     "garage",
+     " auto"
+    ]
+   },
+   "a": {
+    "es": "Hay aparcamiento al aire libre gratuito en las inmediaciones del hotel, y de pago en el interior del hotel.",
+    "en": "There is free open-air parking near the hotel, and paid parking inside the hotel.",
+    "fr": "Il y a un parking gratuit en plein air à proximité de l’hôtel, et un parking payant à l’intérieur.",
+    "de": "Es gibt kostenlose Parkplätze im Freien in der Nähe des Hotels und kostenpflichtige im Hotel."
+   },
+   "sources": [
+    {
+     "url": "https://hotelcamposdebaeza.com",
+     "quote": "El establecimiento dispone de aparcamiento al aire libre gratuito en las inmediaciones del hotel, y de pago en el interior del mismo"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "piscina",
+   "keys": {
+    "es": [
+     "piscina",
+     "terraza",
+     "vistas",
+     "bañar"
+    ],
+    "en": [
+     "pool",
+     "terrace",
+     "views",
+     "swim"
+    ],
+    "fr": [
+     "piscine",
+     "terrasse",
+     "vue",
+     "baigner"
+    ],
+    "de": [
+     "pool",
+     "schwimm",
+     "terrasse",
+     "aussicht"
+    ]
+   },
+   "a": {
+    "es": "Sí: el edificio está coronado por una terraza con piscina y vistas panorámicas a la ciudad.",
+    "en": "Yes: the building is topped by a terrace with a pool and panoramic views of the city.",
+    "fr": "Oui : le bâtiment est couronné d’une terrasse avec piscine et vue panoramique sur la ville.",
+    "de": "Ja: Auf dem Gebäude liegt eine Terrasse mit Pool und Panoramablick über die Stadt."
+   },
+   "sources": [
+    {
+     "url": "https://hotelcamposdebaeza.com",
+     "quote": "coronado con una espectacular terraza con piscina y vistas panorámicas a la ciudad"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayuno",
+     "desayunar"
+    ],
+    "en": [
+     "breakfast"
+    ],
+    "fr": [
+     "petit-dejeuner",
+     "petit dejeuner"
+    ],
+    "de": [
+     "fruhstuck"
+    ]
+   },
+   "a": {
+    "es": "Sí, desayuno buffet recién preparado cada mañana, de 7:30 a 10:30. Si sales antes, pregunta en recepción por la opción fuera de horario.",
+    "en": "Yes, a buffet breakfast freshly prepared every morning, from 7:30 to 10:30. If you leave earlier, ask reception about the early option.",
+    "fr": "Oui, petit-déjeuner buffet préparé chaque matin, de 7:30 à 10:30. Si vous partez plus tôt, demandez à la réception l’option hors horaire.",
+    "de": "Ja, ein jeden Morgen frisch zubereitetes Frühstücksbuffet von 7:30 bis 10:30. Wenn Sie früher abreisen, fragen Sie an der Rezeption nach der Alternative."
+   },
+   "sources": [
+    {
+     "url": "https://hotelcamposdebaeza.com/restaurante",
+     "quote": "el desayuno buffet del hotel recién preparado cada mañana"
+    },
+    {
+     "url": "https://hotelcamposdebaeza.com/restaurante",
+     "quote": "pide información en recepción sobre la opción de desayuno fuera del horario habitual. Horario de apertura para desayuno de 7:30 a 10:30"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde estais",
+     "direccion",
+     "ubicacion",
+     "centro",
+     "casco antiguo"
+    ],
+    "en": [
+     "where are",
+     "address",
+     "location",
+     "old town",
+     "centre"
+    ],
+    "fr": [
+     "ou etes",
+     "adresse",
+     "situe",
+     "vieille ville",
+     "centre"
+    ],
+    "de": [
+     "wo liegt",
+     "wo ist",
+     "adresse",
+     "altstadt",
+     "zentrum"
+    ]
+   },
+   "a": {
+    "es": "Está en la Avda. Alcalde Eusebio Ortega Molina, 43, 23440 Baeza (Jaén). A menos de 500 metros están la fuente de los Leones, la plaza de la Constitución y el casco antiguo.",
+    "en": "It is at Avda. Alcalde Eusebio Ortega Molina, 43, 23440 Baeza (Jaén). Less than 500 metres away are the Fuente de los Leones, the Plaza de la Constitución and the old town.",
+    "fr": "L’hôtel se trouve Avda. Alcalde Eusebio Ortega Molina, 43, 23440 Baeza (Jaén). À moins de 500 mètres : la Fuente de los Leones, la Plaza de la Constitución et la vieille ville.",
+    "de": "Das Hotel liegt in der Avda. Alcalde Eusebio Ortega Molina, 43, 23440 Baeza (Jaén). Weniger als 500 Meter entfernt: Fuente de los Leones, Plaza de la Constitución und Altstadt."
+   },
+   "sources": [
+    {
+     "url": "https://hotelcamposdebaeza.com/contacto",
+     "quote": "Avda. Alcalde Eusebio Ortega Molina, 43 23440 BAEZA (Jaén)"
+    },
+    {
+     "url": "https://hotelcamposdebaeza.com",
+     "quote": "A menos de 500 metros encontrará la fuente de los Leones, la plaza de la Constitución… y el asombroso casco antiguo"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en la página de reservas de su web (botón Reservar), escribir a reservas@hotelcamposdebaeza.com o llamar al 953 747311. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can book on the booking page of their website (Book button), email reservas@hotelcamposdebaeza.com or call +34 953 747311. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver sur la page de réservation de leur site (bouton Réserver), écrire à reservas@hotelcamposdebaeza.com ou appeler le +34 953 747311. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können auf der Buchungsseite ihrer Website buchen (Schaltfläche Buchen), an reservas@hotelcamposdebaeza.com schreiben oder +34 953 747311 anrufen. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://hotelcamposdebaeza.com/reservas",
+     "quote": "Reservas Inicio Reservas Fecha de entrada Fecha de salida"
+    },
+    {
+     "url": "https://hotelcamposdebaeza.com/contacto",
+     "quote": "Teléfono 953 747311 Email reservas@hotelcamposdebaeza.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "check-out",
+   "keys": {
+    "es": [
+     "check-out",
+     "checkout",
+     "salida",
+     "hora de salida"
+    ],
+    "en": [
+     "check-out",
+     "checkout",
+     "check out"
+    ],
+    "fr": [
+     "check-out",
+     "depart",
+     "heure de depart"
+    ],
+    "de": [
+     "check-out",
+     "abreise",
+     "auschecken"
+    ]
+   },
+   "a": {
+    "es": "El check-out es a las 12:00 del mediodía.",
+    "en": "Check-out is at 12:00 noon.",
+    "fr": "Le check-out est à 12:00 (midi).",
+    "de": "Der Check-out ist um 12:00 Uhr mittags."
+   },
+   "sources": [
+    {
+     "url": "https://hotelcamposdebaeza.com/politica-de-cancelacion",
+     "quote": "La hora de check-out es a las 12:00 del mediodía"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "cancelacion",
+   "keys": {
+    "es": [
+     "cancel",
+     "anular",
+     "reembols"
+    ],
+    "en": [
+     "cancel",
+     "refund"
+    ],
+    "fr": [
+     "annul",
+     "rembours"
+    ],
+    "de": [
+     "storn",
+     "erstatt"
+    ]
+   },
+   "a": {
+    "es": "Con tarifa reembolsable puedes cancelar gratis hasta dos días antes de la llegada. Con tarifa no reembolsable, si cancelas, modificas o no te presentas, se cobra el 100% de la reserva.",
+    "en": "With a refundable rate you can cancel free of charge up to two days before arrival. With a non-refundable rate, if you cancel, change or do not show up, 100% of the booking is charged.",
+    "fr": "Avec un tarif remboursable, annulation gratuite jusqu’à deux jours avant l’arrivée. Avec un tarif non remboursable, en cas d’annulation, de modification ou de non-présentation, 100% de la réservation est facturé.",
+    "de": "Mit erstattungsfähigem Tarif ist die Stornierung bis zwei Tage vor Anreise kostenlos. Beim nicht erstattungsfähigen Tarif werden bei Stornierung, Änderung oder Nichterscheinen 100% der Buchung berechnet."
+   },
+   "sources": [
+    {
+     "url": "https://hotelcamposdebaeza.com/politica-de-cancelacion",
+     "quote": "TARIFAS REEMBOLSABLES: podrás cancelar la reserva de forma gratuita hasta dos días antes de la fecha de llegada"
+    },
+    {
+     "url": "https://hotelcamposdebaeza.com/politica-de-cancelacion",
+     "quote": "NO REEMBOLSABLE: si cancelas, modificas o no te presentas, el establecimiento cobrará el 100% del precio de la reserva"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "correo",
+     "email",
+     "contacto",
+     "llamar"
+    ],
+    "en": [
+     "phone",
+     "email",
+     "contact",
+     "call"
+    ],
+    "fr": [
+     "telephone",
+     "courriel",
+     "email",
+     "contact",
+     "appeler"
+    ],
+    "de": [
+     "telefon",
+     "e-mail",
+     "email",
+     "kontakt",
+     "anrufen"
+    ]
+   },
+   "a": {
+    "es": "Teléfono: 953 747311. Correo: reservas@hotelcamposdebaeza.com.",
+    "en": "Phone: +34 953 747311. Email: reservas@hotelcamposdebaeza.com.",
+    "fr": "Téléphone : +34 953 747311. E-mail : reservas@hotelcamposdebaeza.com.",
+    "de": "Telefon: +34 953 747311. E-Mail: reservas@hotelcamposdebaeza.com."
+   },
+   "sources": [
+    {
+     "url": "https://hotelcamposdebaeza.com/contacto",
+     "quote": "Teléfono 953 747311 Email reservas@hotelcamposdebaeza.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K12",
+   "topic": "cuna",
+   "keys": {
+    "es": [
+     "cuna",
+     "bebe"
+    ],
+    "en": [
+     " cot",
+     "crib",
+     "baby"
+    ],
+    "fr": [
+     "lit bebe",
+     "bebe"
+    ],
+    "de": [
+     "kinderbett",
+     "baby"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay cuna bajo petición y según disponibilidad.",
+    "en": "Yes, a cot is available on request and subject to availability.",
+    "fr": "Oui, lit bébé sur demande et selon disponibilité.",
+    "de": "Ja, ein Kinderbett gibt es auf Anfrage und je nach Verfügbarkeit."
+   },
+   "sources": [
+    {
+     "url": "https://hotelcamposdebaeza.com/habitaciones-2/?view=roomdetails&roomid=3",
+     "quote": "Cuna (bajo petición y disponibilidad)"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}

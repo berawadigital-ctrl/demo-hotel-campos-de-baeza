@@ -1,0 +1,56 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://hotelcamposdebaeza.com/",
+ "read_at": "2026-11-02T10:50:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://hotelcamposdebaeza.com",
+   "sha256": "1559d81646fc56ad46ec074f4d040641040d681a78c9f9241b396f32cdaf3d02",
+   "chars": 3111
+  },
+  {
+   "url": "https://hotelcamposdebaeza.com/contacto",
+   "sha256": "fa346df211ef985f254602906738ef977f20045b0229e750b4ab0de03823db30",
+   "chars": 1390
+  },
+  {
+   "url": "https://hotelcamposdebaeza.com/habitaciones-2/?view=roomdetails&roomid=2",
+   "sha256": "36ea551bce8ff0ec30447b4ad20f6fa90dacca57ca1465153c353750f2b09539",
+   "chars": 3091
+  },
+  {
+   "url": "https://hotelcamposdebaeza.com/habitaciones-2/?view=roomdetails&roomid=3",
+   "sha256": "c7d92b63f42ef176329fe5955ba69edd54350501fc135a148615fbf6bb35d66c",
+   "chars": 2981
+  },
+  {
+   "url": "https://hotelcamposdebaeza.com/politica-de-cancelacion",
+   "sha256": "30cdae71123dc86ca40fb06427aacf31db923af0e5519665f7cf97fd825839d6",
+   "chars": 4268
+  },
+  {
+   "url": "https://hotelcamposdebaeza.com/reservas",
+   "sha256": "45f5202f779603ef0a5a748f7997978de8c80c0a00616a7630c680310fa98dbc",
+   "chars": 1108
+  },
+  {
+   "url": "https://hotelcamposdebaeza.com/restaurante",
+   "sha256": "d47bcac3b741ac90c1b6f7713bcb4e56408e067328f70e44746bcf084f7eb517",
+   "chars": 2747
+  }
+ ],
+ "other_pages_read": [
+  "https://hotelcamposdebaeza.com/author/admin",
+  "https://hotelcamposdebaeza.com/aviso-legal",
+  "https://hotelcamposdebaeza.com/category/sin-categoria",
+  "https://hotelcamposdebaeza.com/entrada-de-prueba",
+  "https://hotelcamposdebaeza.com/habitaciones-2",
+  "https://hotelcamposdebaeza.com/habitaciones-2/?view=roomdetails&roomid=1",
+  "https://hotelcamposdebaeza.com/habitaciones-2/?view=roomdetails&roomid=4",
+  "https://hotelcamposdebaeza.com/mis-reservas",
+  "https://hotelcamposdebaeza.com/politica-de-cookies",
+  "https://hotelcamposdebaeza.com/politica-de-privacidad",
+  "https://hotelcamposdebaeza.com/suspendisse-sed-sagittis"
+ ]
+}
