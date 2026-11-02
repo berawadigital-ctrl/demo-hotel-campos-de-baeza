@@ -1,5 +1,5 @@
 {
- "url": "http://127.0.0.1:42379/index.html",
+ "url": "http://127.0.0.1:38747/index.html",
  "langs": {
   "es": {
    "textos_iguales_al_es": [],
@@ -67,8 +67,8 @@
     {
      "q": "¿Puedo cancelar la reserva?",
      "esperado": "K10",
-     "ok": false,
-     "respuesta": "Puedes reservar en la página de reservas de su web (botón Reservar), escribir a reservas@hotelcamposdebaeza.com o llamar al 953 747311. Este"
+     "ok": true,
+     "respuesta": "Con tarifa reembolsable puedes cancelar gratis hasta dos días antes de la llegada. Con tarifa no reembolsable, si cancelas, modificas o no t"
     },
     {
      "q": "¿Cuál es vuestro teléfono?",
@@ -277,8 +277,8 @@
     {
      "q": "Puis-je annuler ma réservation ?",
      "esperado": "K10",
-     "ok": false,
-     "respuesta": "Vous pouvez réserver sur la page de réservation de leur site (bouton Réserver), écrire à reservas@hotelcamposdebaeza.com ou appeler le +34 9"
+     "ok": true,
+     "respuesta": "Avec un tarif remboursable, annulation gratuite jusqu’à deux jours avant l’arrivée. Avec un tarif non remboursable, en cas d’annulation, de "
     },
     {
      "q": "Quel est votre numéro de téléphone ?",
@@ -418,9 +418,6 @@
    ]
   }
  },
- "fail": [
-  "es: chat \"¿Puedo cancelar la reserva?\" esperado K10 -> Puedes reservar en la página de reservas de su web (botón Reservar), escribir a ",
-  "fr: chat \"Puis-je annuler ma réservation ?\" esperado K10 -> Vous pouvez réserver sur la page de réservation de leur site (bouton Réserver), "
- ],
- "ok": false
+ "fail": [],
+ "ok": true
 }

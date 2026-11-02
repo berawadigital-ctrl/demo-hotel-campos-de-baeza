@@ -1,14 +1,12 @@
-HEAD 8f700e8c0d7fa11fa3dc5b60f78964dfdded01ac
+HEAD f8877b5da16178fe54daee691fef3e643368daf4
 OK    check_kb (citas + regla de precios P1-P6) sobre berawa/knowledge.json
-FALLO tests_hotel_campos_de_baeza: 4 idiomas + chatbot contra la base (HTTP)
-   FALLOS ['es: chat "¿Puedo cancelar la reserva?" esperado K10 -> Puedes reservar en la página de reservas de su web (botón Reservar), escribir a ', 'fr: chat "Puis-je annuler ma réservation ?" esperado K10 -> Vous pouvez réserver sur la page de réservation de leur site (bouton Réserver), ']
+OK    tests_hotel_campos_de_baeza: 4 idiomas + chatbot contra la base (HTTP)
 OK    a11y_test: axe-core + teclado (HTTP)
 OK    contrast_manual: contraste de nodos «incompletos» de axe
 OK    keys_test: claves del chat sin ambiguedad
 OK    sec_scan: revision estatica + CSP efectiva
-FALLO tests_hotel_campos_de_baeza por file://
-   FALLOS ['es: chat "¿Puedo cancelar la reserva?" esperado K10 -> Puedes reservar en la página de reservas de su web (botón Reservar), escribir a ', 'fr: chat "Puis-je annuler ma réservation ?" esperado K10 -> Vous pouvez réserver sur la page de réservation de leur site (bouton Réserver), ']
+OK    tests_hotel_campos_de_baeza por file://
 OK    a11y_test por file://
 
-6/8 comprobaciones OK · resultados en /tmp/clon-hotel-campos-de-baeza/out
-run_checks exit 1
+8/8 comprobaciones OK · resultados en /tmp/clon-hotel-campos-de-baeza/out
+run_checks exit 0

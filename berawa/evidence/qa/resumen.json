@@ -1,12 +1,12 @@
 {
- "zip_sha256": "6e00f4fb88ec5643f19ef3e27aa99fff53e514cf88647ac596154f91e1339425",
+ "zip_sha256": "da949cf648dbe8dd004abd10848351bc1da2d4bd1cde20c891b11bfe8565ab10",
  "zip_determinista": true,
  "zip_en_git_igual": true,
  "zip_ficheros_distintos_de_la_rama": [],
- "zip_run_checks_ok": false,
+ "zip_run_checks_ok": true,
  "zip_check_kb_ok": true,
- "clon_ok": false,
- "clon_head": "8f700e8c0d7fa11fa3dc5b60f78964dfdded01ac",
+ "clon_ok": true,
+ "clon_head": "f8877b5da16178fe54daee691fef3e643368daf4",
  "check_kb_ok": true,
  "rg_workspace_vacio": true,
  "git_diff_check_ok": true,
@@ -22,7 +22,7 @@
  },
  "lighthouse": {
   "mobile": {
-   "performance": 90,
+   "performance": 99,
    "accessibility": 100,
    "best-practices": 100,
    "seo": 58
@@ -44,5 +44,5 @@
    "robots-txt"
   ]
  },
- "minutos": 9.0
+ "minutos": 9.3
 }

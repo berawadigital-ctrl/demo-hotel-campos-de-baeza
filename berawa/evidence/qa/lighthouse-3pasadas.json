@@ -2,11 +2,11 @@
  "mobile": {
   "runs": [
    {
-    "performance": 90,
+    "performance": 99,
     "accessibility": 100,
     "best-practices": 100,
     "seo": 58,
-    "lcp_s": 1.43,
+    "lcp_s": 1.56,
     "lh": "13.6.0"
    },
    {
@@ -14,20 +14,20 @@
     "accessibility": 100,
     "best-practices": 100,
     "seo": 58,
-    "lcp_s": 1.43,
+    "lcp_s": 1.37,
     "lh": "13.6.0"
    },
    {
-    "performance": 90,
+    "performance": 99,
     "accessibility": 100,
     "best-practices": 100,
     "seo": 58,
-    "lcp_s": 1.43,
+    "lcp_s": 1.52,
     "lh": "13.6.0"
    }
   ],
   "mediana": {
-   "performance": 90,
+   "performance": 99,
    "accessibility": 100,
    "best-practices": 100,
    "seo": 58
@@ -52,7 +52,7 @@
     "accessibility": 100,
     "best-practices": 100,
     "seo": 58,
-    "lcp_s": 0.29,
+    "lcp_s": 0.28,
     "lh": "13.6.0"
    },
    {
@@ -60,7 +60,7 @@
     "accessibility": 100,
     "best-practices": 100,
     "seo": 58,
-    "lcp_s": 0.34,
+    "lcp_s": 0.33,
     "lh": "13.6.0"
    }
   ],
