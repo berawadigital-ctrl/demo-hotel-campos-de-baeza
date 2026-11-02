@@ -1,0 +1,423 @@
+{
+ "url": "file:///tmp/clon-hotel-campos-de-baeza/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 50 habitaciones: dobles (cama de matrimonio o dos camas separadas), individuales, dobles con supletoria para 3 adultos y Junior Suites"
+    },
+    {
+     "q": "¿Cómo es la Junior Suite?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Las Junior Suites tienen tres diseños únicos, en los extremos del pasillo: amplio salón, mirador en la terraza privada, jacuzzi y ducha de h"
+    },
+    {
+     "q": "¿Qué tienen las habitaciones?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Tienen suelo de madera, secador, amenities personalizados, TV de pantalla plana, wifi gratuito, colchones nuevos y almohadas a la carta, ade"
+    },
+    {
+     "q": "¿Tenéis parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Hay aparcamiento al aire libre gratuito en las inmediaciones del hotel, y de pago en el interior del hotel."
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí: el edificio está coronado por una terraza con piscina y vistas panorámicas a la ciudad."
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, desayuno buffet recién preparado cada mañana, de 7:30 a 10:30. Si sales antes, pregunta en recepción por la opción fuera de horario."
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en la Avda. Alcalde Eusebio Ortega Molina, 43, 23440 Baeza (Jaén). A menos de 500 metros están la fuente de los Leones, la plaza de la "
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar en la página de reservas de su web (botón Reservar), escribir a reservas@hotelcamposdebaeza.com o llamar al 953 747311. Este"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar en la página de reservas de su web (botón Reservar), escribir a reservas@hotelcamposdebaeza.com o llamar al 953 747311. Este"
+    },
+    {
+     "q": "¿A qué hora es el check-out?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "El check-out es a las 12:00 del mediodía."
+    },
+    {
+     "q": "¿Puedo cancelar la reserva?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Con tarifa reembolsable puedes cancelar gratis hasta dos días antes de la llegada. Con tarifa no reembolsable, si cancelas, modificas o no t"
+    },
+    {
+     "q": "¿Cuál es vuestro teléfono?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfono: 953 747311. Correo: reservas@hotelcamposdebaeza.com. Consultar por WhatsApp →"
+    },
+    {
+     "q": "¿Tenéis cuna?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sí, hay cuna bajo petición y según disponibilidad."
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 953 747 311 · reservas@hotelcamposdebaeza.com."
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 953 747 311 · reservas@hotelcamposdebaeza.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Tenéis parking?",
+    "¿Hay piscina?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 50 rooms: doubles (double bed or two separate beds), singles, doubles with an extra bed for 3 adults and Junior Suites."
+    },
+    {
+     "q": "What is the Junior Suite like?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The Junior Suites come in three unique designs, at the ends of the corridor: large lounge, viewpoint on the private terrace, jacuzzi and hyd"
+    },
+    {
+     "q": "What do the rooms include?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "They have wooden floors, hairdryer, personalised amenities, flat-screen TV, free wifi, new mattresses and a pillow menu, plus minibar, safe,"
+    },
+    {
+     "q": "Do you have parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "There is free open-air parking near the hotel, and paid parking inside the hotel."
+    },
+    {
+     "q": "Is there a pool?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes: the building is topped by a terrace with a pool and panoramic views of the city."
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes, a buffet breakfast freshly prepared every morning, from 7:30 to 10:30. If you leave earlier, ask reception about the early option."
+    },
+    {
+     "q": "Where are you?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Avda. Alcalde Eusebio Ortega Molina, 43, 23440 Baeza (Jaén). Less than 500 metres away are the Fuente de los Leones, the Plaza de l"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book on the booking page of their website (Book button), email reservas@hotelcamposdebaeza.com or call +34 953 747311. This assistan"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book on the booking page of their website (Book button), email reservas@hotelcamposdebaeza.com or call +34 953 747311. This assistan"
+    },
+    {
+     "q": "What time is check-out?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Check-out is at 12:00 noon."
+    },
+    {
+     "q": "Can I cancel my booking?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "With a refundable rate you can cancel free of charge up to two days before arrival. With a non-refundable rate, if you cancel, change or do "
+    },
+    {
+     "q": "What is your phone number?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phone: +34 953 747311. Email: reservas@hotelcamposdebaeza.com. Ask on WhatsApp →"
+    },
+    {
+     "q": "Do you have a cot?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Yes, a cot is available on request and subject to availability."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 953 747 311 · reservas@hotelcamposdebaeza.com."
+    },
+    {
+     "q": "Do you allow pets?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 953 747 311 · reservas@hotelcamposdebaeza.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Do you have parking?",
+    "Is there a pool?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 50 chambres : doubles (lit double ou deux lits séparés), individuelles, doubles avec lit d’appoint pour 3 adultes et Junior Suites"
+    },
+    {
+     "q": "Comment est la Junior Suite ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les Junior Suites ont trois designs uniques, au bout des couloirs : grand salon, belvédère sur la terrasse privée, jacuzzi et douche hydroma"
+    },
+    {
+     "q": "Que comprennent les chambres ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Parquet, sèche-cheveux, produits d’accueil personnalisés, TV écran plat, wifi gratuit, matelas neufs et carte d’oreillers, ainsi que minibar"
+    },
+    {
+     "q": "Avez-vous un parking ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Il y a un parking gratuit en plein air à proximité de l’hôtel, et un parking payant à l’intérieur."
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui : le bâtiment est couronné d’une terrasse avec piscine et vue panoramique sur la ville."
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui, petit-déjeuner buffet préparé chaque matin, de 7:30 à 10:30. Si vous partez plus tôt, demandez à la réception l’option hors horaire."
+    },
+    {
+     "q": "Où êtes-vous ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "L’hôtel se trouve Avda. Alcalde Eusebio Ortega Molina, 43, 23440 Baeza (Jaén). À moins de 500 mètres : la Fuente de los Leones, la Plaza de "
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur la page de réservation de leur site (bouton Réserver), écrire à reservas@hotelcamposdebaeza.com ou appeler le +34 9"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur la page de réservation de leur site (bouton Réserver), écrire à reservas@hotelcamposdebaeza.com ou appeler le +34 9"
+    },
+    {
+     "q": "À quelle heure est le check-out ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Le check-out est à 12:00 (midi)."
+    },
+    {
+     "q": "Puis-je annuler ma réservation ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Avec un tarif remboursable, annulation gratuite jusqu’à deux jours avant l’arrivée. Avec un tarif non remboursable, en cas d’annulation, de "
+    },
+    {
+     "q": "Quel est votre numéro de téléphone ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphone : +34 953 747311. E-mail : reservas@hotelcamposdebaeza.com. Écrire sur WhatsApp →"
+    },
+    {
+     "q": "Avez-vous un lit bébé ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Oui, lit bébé sur demande et selon disponibilité."
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 953 747 311 · reservas@hotelcamposdebaeza.com."
+    },
+    {
+     "q": "Acceptez-vous les animaux ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 953 747 311 · reservas@hotelcamposdebaeza.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Avez-vous un parking ?",
+    "Y a-t-il une piscine ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es hat 50 Zimmer: Doppelzimmer (Doppelbett oder zwei getrennte Betten), Einzelzimmer, Doppelzimmer mit Zustellbett für 3 Erwachsene und Juni"
+    },
+    {
+     "q": "Wie ist die Junior Suite?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Die Junior Suites gibt es in drei einzigartigen Designs am Ende der Flure: großer Wohnbereich, Aussichtspunkt auf der privaten Terrasse, Whi"
+    },
+    {
+     "q": "Was bieten die Zimmer?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Holzboden, Föhn, individuelle Pflegeprodukte, Flachbild-TV, kostenloses WLAN, neue Matratzen und Kissenmenü sowie Minibar, Safe, Schreibtisc"
+    },
+    {
+     "q": "Gibt es einen Parkplatz?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Es gibt kostenlose Parkplätze im Freien in der Nähe des Hotels und kostenpflichtige im Hotel."
+    },
+    {
+     "q": "Gibt es einen Pool?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ja: Auf dem Gebäude liegt eine Terrasse mit Pool und Panoramablick über die Stadt."
+    },
+    {
+     "q": "Gibt es Frühstück?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Ja, ein jeden Morgen frisch zubereitetes Frühstücksbuffet von 7:30 bis 10:30. Wenn Sie früher abreisen, fragen Sie an der Rezeption nach der"
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Das Hotel liegt in der Avda. Alcalde Eusebio Ortega Molina, 43, 23440 Baeza (Jaén). Weniger als 500 Meter entfernt: Fuente de los Leones, Pl"
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können auf der Buchungsseite ihrer Website buchen (Schaltfläche Buchen), an reservas@hotelcamposdebaeza.com schreiben oder +34 953 74731"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können auf der Buchungsseite ihrer Website buchen (Schaltfläche Buchen), an reservas@hotelcamposdebaeza.com schreiben oder +34 953 74731"
+    },
+    {
+     "q": "Wann ist der Check-out?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Der Check-out ist um 12:00 Uhr mittags."
+    },
+    {
+     "q": "Kann ich meine Buchung stornieren?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Mit erstattungsfähigem Tarif ist die Stornierung bis zwei Tage vor Anreise kostenlos. Beim nicht erstattungsfähigen Tarif werden bei Stornie"
+    },
+    {
+     "q": "Wie ist Ihre Telefonnummer?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telefon: +34 953 747311. E-Mail: reservas@hotelcamposdebaeza.com. Per WhatsApp schreiben →"
+    },
+    {
+     "q": "Haben Sie ein Kinderbett?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Ja, ein Kinderbett gibt es auf Anfrage und je nach Verfügbarkeit."
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 953 747 311 · reservas@hotelcamposdebaeza.com."
+    },
+    {
+     "q": "Sind Haustiere erlaubt?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 953 747 311 · reservas@hotelcamposdebaeza.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Gibt es einen Parkplatz?",
+    "Gibt es einen Pool?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-campos-de-baeza",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-11-02T10:48:00+01:00",
+ "updated_at": "2026-11-02T11:15:00+01:00",
+ "business": {
+  "name": "Hotel Campos de Baeza",
+  "legal_name": "INVERSIONES CAMPOS DE BAEZA, S.L., CIF B23519002 (política de cancelación y aviso legal de su web)",
+  "registry_ids": [
+   "B23519002"
+  ],
+  "url": "https://hotelcamposdebaeza.com/",
+  "domain": "hotelcamposdebaeza.com",
+  "municipality": "Baeza",
+  "province": "Jaén",
+  "address": "Avda. Alcalde Eusebio Ortega Molina, 43 · 23440 Baeza",
+  "phones": [
+   "+34 953 747 311"
+  ],
+  "emails": [
+   "reservas@hotelcamposdebaeza.com"
+  ],
+  "sector": "hotel de 4 estrellas con terraza y piscina en Baeza"
+ },
+ "rating": {
+  "value": 4.1,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por tel, web)",
+  "url": "https://www.google.com/maps/search/Hotel+Campos+de+Baeza+Baeza",
+  "date": "2026-10-30",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://hotelcamposdebaeza.com/reservas/",
+  "note": "motor propio de su web (VikBooking) en su pagina /reservas/ (boton RESERVAS del menu), HTTP 200 (02/11/2026 11:02); la web solo esta en espanol, mismo enlace en los 4 idiomas."
+ },
+ "audit_original": {
+  "url": "https://hotelcamposdebaeza.com/",
+  "date": "2026-11-02T10:50:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
